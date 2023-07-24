@@ -1,0 +1,6 @@
+body {background-color: rgb(75, 178, 82);}
+        div {
+            border: 5px solid yellow;
+            width: 200px;
+            height: 200px;
+        }
