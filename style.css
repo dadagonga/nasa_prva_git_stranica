@@ -1,7 +1,7 @@
-body {background-color: rgb(75, 178, 82);}
+body {background-color: rgb(178, 75, 87);}
 
 div {
-    border: 5px solid yellow;
+    border: 5px solid rgb(164, 132, 45);
     width: 200px;
     height: 200px;
 }
